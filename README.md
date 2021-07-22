@@ -1,3 +1,3 @@
 # MySQL 
 primeiros exercicios dentro do MySQL 
-com base nos estudos da Generation Brasil.
+com base na primeira aula de MySQL dentro da Generation Brasil.
